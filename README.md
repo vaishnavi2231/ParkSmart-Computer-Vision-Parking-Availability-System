@@ -7,9 +7,9 @@ A real-time parking occupancy detection system built with OpenCV and Machine Lea
 
 - Libraries: OpenCV, scikit-learn, NumPy, Matplotlib
 
-ML Techniques: Support Vector Machine (SVM), GridSearchCV hyperparameter tuning
+- ML Techniques: Support Vector Machine (SVM), GridSearchCV hyperparameter tuning
 
-Computer Vision: Connected components, thresholding, contour detection, resizing
+- Computer Vision: Connected components, thresholding, contour detection, resizing
 
 📊 Results
 
